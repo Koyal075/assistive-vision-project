@@ -38,3 +38,23 @@ local.properties
 # OS files
 .DS_Store
 Thumbs.db
+
+coco_subset_bigger/
+coco_subset_bigger_v2/
+coco_subset_filtered/
+coco_subset_yolo/
+coco_val_clean/
+Datasets/
+Files/
+final_dataset/
+final_dataset_v2/
+fvr/
+merged_dataset/
+merged_dataset_filtered/
+venv/
+runs/
+*.zip
+*.apk
+*.pt
+/prep_final_dataset.py
+/prep_final_dataset_v2.py
